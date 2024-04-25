@@ -1,4 +1,5 @@
-//Exercício 1: Comunicar o Servidor CAN, receber a CAN do Inclinômetro LOHR e printar mensagem.
+# Exercício 1: Comunicar o Servidor CAN, receber a CAN do Inclinômetro LOHR e printar mensagem.
+# Terminal Usage 
 
 #!/usr/bin/python3.7
 
@@ -16,12 +17,10 @@ print('Ready')
 
 try:
     while True:
-        print('entrou')
         message = bus.recv(0.5) # Wait until a message is received.
         if message is None:
-            print('n recebeu mensagem')
+            print('Não Recebeu Mensagem!!')
         else:
-            print('recebeu mensagem')
             c = '{0:f} {1:x} {2:x} '.format(message.timestamp, message.arbitration_id, message.dlc)
             s=''
             for i in range(message.dlc):
