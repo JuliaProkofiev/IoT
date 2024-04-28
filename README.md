@@ -1,2 +1,3 @@
 # IoT
-Aprendizado sobre Sistemas Embarcados e CAN bus, utilizando ESP32, Arduino Uno, PIC, LCD, potenciômetro, etc.
+Understanding Embedded Systems and CAN Bus with ESP32, Arduino Uno, PIC, LCD, Potentiometer, etc.
+For more circuits and projects, my TINKERCAD account: Julia Peyerl Prokofiev
