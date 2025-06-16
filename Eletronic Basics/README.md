@@ -42,8 +42,9 @@ This project implements a functional calculator on an Arduino Uno, capable of pe
     * Custom functions for converting decimal numbers to binary, hexadecimal, and octal strings, and vice-versa.
     * **State Management** (e.g., `enteringFirstNumber`, `currentOperator`) to handle calculation flow.
     * Robust handling of the `=` key for both calculation and conversion cycling.
-      
-![**See it working on Thinkercad!**](https://www.tinkercad.com/things/f5nE4pSwjXz-arduino-calculator-with-base-conversion)
+
+![Arduino Calculator with Base Conversion](https://github.com/user-attachments/assets/8c559923-d717-49e3-8711-4b943bc62f83)
+**See it working on Thinkercad:** https://www.tinkercad.com/things/f5nE4pSwjXz-arduino-calculator-with-base-conversion)
 
 ### 2. Arduino Elevator Simulation
 
@@ -71,7 +72,7 @@ This project simulates a multi-floor elevator system using an Arduino (or ESP32 
     * Utilizes `millis()` for effective button debouncing.
       
 ![Arduino Elevator Simulation with NeoPixels](https://github.com/user-attachments/assets/cc73e167-ec26-4c47-b985-432a837c9cac)
-![**See it working on Thinkercad!**](https://www.tinkercad.com/things/3BzBqNuqTWo-arduino-elevator-simulation-with-neopixels)
+**See it working on Thinkercad:** https://www.tinkercad.com/things/3BzBqNuqTWo-arduino-elevator-simulation-with-neopixels
 
 ---
 
