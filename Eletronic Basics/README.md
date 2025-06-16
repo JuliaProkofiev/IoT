@@ -44,7 +44,7 @@ This project implements a functional calculator on an Arduino Uno, capable of pe
     * Robust handling of the `=` key for both calculation and conversion cycling.
 
 ![Arduino Calculator with Base Conversion](https://github.com/user-attachments/assets/8c559923-d717-49e3-8711-4b943bc62f83)
-**See it working on Thinkercad:** https://www.tinkercad.com/things/f5nE4pSwjXz-arduino-calculator-with-base-conversion)
+**See it working on Thinkercad:** https://www.tinkercad.com/things/f5nE4pSwjXz-arduino-calculator-with-base-conversion
 
 ### 2. Arduino Elevator Simulation
 
