@@ -1,4 +1,3 @@
-```markdown
 # Arduino & IoT Projects Repository
 
 Welcome to this repository, showcasing a collection of embedded systems projects developed using Arduino and ESP32 platforms. These projects demonstrate fundamental concepts of hardware interaction, data processing, and simple user interfaces, laying the groundwork for more complex Internet of Things (IoT) applications.
