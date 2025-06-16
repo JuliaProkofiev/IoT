@@ -1,4 +1,4 @@
-# Exercício 2: Comunicar o Servidor CAN 192.168.49.72, receber por CAN o status do LED.
+# Exercício 2: Comunicar o Servidor CAN XXX.XXX.XX.XX, receber por CAN o status do LED.
 # Terminal Usage 
 
 #!/usr/bin/python3
@@ -34,7 +34,6 @@ except OSError:
 
 def can_rx_task():
     tp = 0
-    print('entrou can_rx_task()')
     while True: 
         message = bus1.recv(0.001)  # Wait until a message is received.
         if message is None:
