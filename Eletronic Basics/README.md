@@ -112,4 +112,3 @@ These projects provide a solid foundation. Here are some ideas for future expans
 ---
 
 Feel free to explore, fork, and contribute to these projects! Your feedback and ideas are always welcome.
-```
